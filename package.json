@@ -1,0 +1,10 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wjnoh/movieql",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
